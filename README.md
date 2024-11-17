@@ -1,1 +1,1 @@
-# Modele-de-Recommandation-de-Produits-utilisant-une-Approche-d-Apprentissage-Supervise
+# Développement d'un Modèle de Recommandation de Produits utilisant une Approche d'Apprentissage Supervisé à Partir de Données Utilisateurs
